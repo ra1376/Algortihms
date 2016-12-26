@@ -1,2 +1,3 @@
 # Algortihms
-Algorithms/Python
+#Algorithms/Python
+**Sorting**
